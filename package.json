@@ -8,11 +8,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25"
+    "@apollo/client": "^3.6.9",
+    "@vue/apollo-composable": "^4.0.0-alpha.17",
+    "graphql": "^16.5.0",
+    "graphql-tag": "^2.12.6",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.16"
   },
   "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@vicons/ionicons5": "^0.12.0",
     "@vitejs/plugin-vue": "^2.3.3",
+    "naive-ui": "^2.30.6",
     "typescript": "^4.5.4",
+    "unplugin-vue-components": "^0.19.9",
+    "vfonts": "^0.0.3",
     "vite": "^2.9.9",
     "vue-tsc": "^0.34.7"
   }
